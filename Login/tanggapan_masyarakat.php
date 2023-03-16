@@ -56,11 +56,7 @@ if(!isset ($_SESSION['nama'])){
                     <div class="header_bottom_border">
                         <div class="row align-items-center">
                             <div class="col-xl-3 col-lg-2">
-                                <div class="logo">
-                                    <a href="../index.php">
-                                        <img src="../img/logo desa.png" alt="">
-                                    </a>
-                                </div>
+                                
                             </div>
                             <div class="col-xl-6 col-lg-7">
                                 <div class="main-menu  d-none d-lg-block">

@@ -24,7 +24,7 @@ if(!isset ($_SESSION['level'])){
 <div class="head">
 <table>
 <tr>
-<td width="10%"><img src="img/LOGO KABUPATEN PANDEGLANG.png" width="80px" /></td>
+<td></td>
 <td align="center" width="90%"><font style="font-size:22px; font-family:Arial, Helvetica, sans-serif;">PEMERINTAH KABUPATEN PANDEGLANG<br />KECAMATAN CIKEUSIK<br/>DESA UMBULAN</font><br /><i><font style="font-size:15px;">Jl. Raya Cikeusik- Binuangeun Km. 05 Umbulan-Cikeusik-Pandeglang 42286</font></i></td>
 </tr>
 </table>

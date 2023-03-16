@@ -33,15 +33,8 @@ include 'koneksi.php';
             <div class="header-top_area d-none d-lg-block">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-6 col-md-6 ">
-                         <li><a href="https://www.google.co.id/maps/place/Balai+Desa+Umbulan/@-6.7653667,105.8546405,17z/data=!4m12!1m6!3m5!1s0x2e42543fba920469:0x1dbbde88692ef5c0!2sBalai+Desa+Umbulan!8m2!3d-6.7653122!4d105.8546468!3m4!1s0x2e42543fba920469:0x1dbbde88692ef5c0!8m2!3d-6.7653122!4d105.8546468" style="color:white"><i class="fa fa-podcast"> Kantor Desa Umbulan Cek Lokasi disini</i></a></li>
-                        </div>
                         <div class="col-xl-6 col-md-6">
                             <div class="short_contact_list">
-                                <ul>
-                                    <li><a href="#"> <i class="fa fa-envelope"></i> Desa_umbulan@gmail.com</a></li>
-                                    <li><a href="#"> <i class="fa fa-phone"></i>0816-1797-5242</a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -52,11 +45,7 @@ include 'koneksi.php';
                     <div class="header_bottom_border">
                         <div class="row align-items-center">
                             <div class="col-xl-3 col-lg-2">
-                                <div class="logo">
-                                    <a href="index.php">
-                                        <img src="img/logo desa.png" alt="">
-                                    </a>
-                                </div>
+                                
                             </div>
                             <div class="col-xl-6 col-lg-7">
                                 <div class="main-menu  d-none d-lg-block">

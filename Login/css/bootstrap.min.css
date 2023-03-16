@@ -285,9 +285,7 @@ select {
 [type=reset],
 [type=submit],
 button,
-html [type=button] {
-    -webkit-appearance: button
-}
+html [type=button] 
 
 [type=button]::-moz-focus-inner,
 [type=reset]::-moz-focus-inner,
@@ -306,9 +304,7 @@ input[type=radio] {
 input[type=date],
 input[type=datetime-local],
 input[type=month],
-input[type=time] {
-    -webkit-appearance: listbox
-}
+input[type=time]
 
 textarea {
     overflow: auto;
@@ -345,7 +341,6 @@ progress {
 
 [type=search] {
     outline-offset: -2px;
-    -webkit-appearance: none
 }
 
 [type=search]::-webkit-search-cancel-button,
@@ -5632,7 +5627,6 @@ button.close {
     padding: 0;
     background-color: transparent;
     border: 0;
-    -webkit-appearance: none
 }
 
 .modal-open {
